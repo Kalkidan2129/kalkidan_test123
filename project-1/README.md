@@ -3,21 +3,21 @@
 
 ## Project Overview
 
-This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores across the US between 2010 and 2012. It focused on visualizing sales trends during the post-recession period to understand store performance and external impacts. The dashboard incorporated DAX measures, calendar tables, and conditional columns to enable detailed sales insights.
+This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores across the US between 2010 and 2012. It focused on understanding sales trends during the recovery period following the 2008 recession. The dashboard incorporated data modeling, DAX measures, and conditional columns to provide actionable retail insights.
 
 ---
 
 ## Business Problem
 
-Walmart stores experienced fluctuating sales during the recovery period following the 2008 recession, impacting revenue and operational planning. Understanding these sales trends was critical to identify factors affecting store performance and to optimize sales strategies. The challenge was to analyze large-scale sales data effectively to support data-driven decision-making.
+Walmart stores, like other discount retailers, experienced fluctuating sales during the post-2008 recession recovery period. Understanding these sales trends was critical to optimizing store performance and inventory management. The challenge was to analyze multi-year sales data to identify patterns and business drivers affecting sales.
 
 ---
 
 ## Objective
 
-- Analyze year-over-year sales performance across multiple Walmart stores
-- Create interactive dashboards to visualize sales trends and external factors
-- Enable data-driven insights for strategic retail planning post-recession
+- Analyze year-over-year sales trends across multiple Walmart stores
+- Create a dynamic Power BI dashboard for visualizing sales performance
+- Incorporate economic factors like unemployment and holiday periods into sales analysis
 
 ---
 
@@ -27,26 +27,26 @@ Walmart stores experienced fluctuating sales during the recovery period followin
 - DAX (Data Analysis Expressions)
 - Excel
 - Power Query Editor
-- CSV Data Files
+- CSV data files
 
 ---
 
 ## Project Workflow
 
 - Import Walmart sales CSV data into Power BI Desktop
-- Create calendar and refresh date tables for time intelligence
+- Create calendar and refresh date tables using DAX
 - Establish relationships between sales and calendar tables
-- Develop conditional columns for holiday and unemployment flags
-- Build DAX measures for total sales, average sales, and YOY growth
+- Add conditional columns for holiday flags and unemployment rates
+- Develop DAX measures for total sales, average sales, and year-over-year growth
 
 ---
 
 ## Key Insights
 
-- Sales trends showed variability influenced by holiday weeks and unemployment rates
-- Year-over-year sales growth metrics highlighted recovery patterns post-recession
-- Custom sorting of conditional columns improved clarity in temporal sales analysis
-- Power BI relationships between calendar and sales data enabled robust time-based insights
+- Sales showed variable recovery trends across stores post-recession
+- Holiday weeks significantly influenced sales performance
+- Unemployment rates correlated with fluctuations in store sales
+- Month-over-month and year-over-year sales comparisons revealed seasonal patterns
 
 ---
 
@@ -58,9 +58,9 @@ Walmart stores experienced fluctuating sales during the recovery period followin
 
 ## Business Impact
 
-- Provided Walmart leadership with actionable sales trend insights during economic recovery
-- Enhanced decision-making through interactive and dynamic sales dashboards
-- Supported strategic planning by identifying key periods impacting store sales
+- Enabled data-driven decisions to optimize inventory and staffing during key periods
+- Provided actionable insights to improve sales strategies post-recession
+- Enhanced reporting capabilities with interactive dashboards for stakeholders
 
 ---
 

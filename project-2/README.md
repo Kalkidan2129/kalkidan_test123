@@ -3,20 +3,20 @@
 
 ## Project Overview
 
-This project created an interactive Power BI dashboard to analyze global superstore sales by country, segment, category, and subcategory. It visualizes key sales metrics to help identify trends and performance variations impacted by the pandemic-driven shift to e-commerce. The dashboard enables stakeholders to make informed decisions by exploring sales data across multiple dimensions.
+This project created a comprehensive sales dashboard for a global superstore using Power BI, visualizing sales data by country, segment, category, and subcategory. It enabled stakeholders to analyze shifting consumer behaviors and sales trends influenced by the pandemic. The dashboard supports data-driven decision-making through clear KPIs and interactive visuals.
 
 ---
 
 ## Business Problem
 
-The COVID-19 pandemic accelerated the shift from in-store to online shopping, creating uncertainty in sales patterns across regions and product categories. Retailers needed a comprehensive tool to monitor and understand these changes to optimize inventory, marketing, and customer engagement. Without consolidated insights, businesses struggled to adapt strategies effectively during this volatile period.
+The COVID-19 pandemic drastically changed consumer shopping habits, increasing online purchases and impacting retail sales channels. Retailers needed a way to understand these shifts across regions and product segments to optimize sales strategies. Without consolidated insights, decision-makers lacked visibility into evolving market dynamics.
 
 ---
 
 ## Objective
 
-- Create a dynamic dashboard to visualize sales data by country, segment, category, and subcategory
-- Enable identification of sales trends and performance shifts due to pandemic impacts
+- Build an interactive dashboard to visualize sales by country, segment, category, and subcategory
+- Enable identification of sales trends and patterns influenced by the pandemic
 - Provide actionable insights to support strategic retail decision-making
 
 ---
@@ -26,27 +26,27 @@ The COVID-19 pandemic accelerated the shift from in-store to online shopping, cr
 - Power BI
 - DAX
 - Excel
+- Power Query
 - Data Modeling
-- Data Visualization
 
 ---
 
 ## Project Workflow
 
-- Gather and prepare global superstore sales data
-- Build data model and relationships in Power BI
-- Create KPIs and DAX calculations for sales metrics
-- Design and implement interactive visualizations and slicers
-- Publish and validate dashboard insights with stakeholders
+- Collect and prepare global superstore sales data
+- Create data model and relationships in Power BI
+- Design and build interactive visuals including line and clustered column charts
+- Develop KPIs and sales indicators using DAX calculations
+- Implement slicers and filters for dynamic data exploration
 
 ---
 
 ## Key Insights
 
-- E-commerce sales increased significantly during pandemic lockdowns
-- Sales performance varied widely by country and product segment
-- Certain categories and subcategories showed stronger resilience
-- Monthly sales KPIs highlighted critical periods of growth and decline
+- Significant increase in online sales during pandemic lockdowns
+- Sales performance varied notably by country and segment
+- Certain product categories and subcategories outperformed others
+- Interactive KPIs highlighted monthly sales trends and anomalies
 
 ---
 
@@ -58,9 +58,9 @@ The COVID-19 pandemic accelerated the shift from in-store to online shopping, cr
 
 ## Business Impact
 
-- Improved ability to track and respond to shifting consumer buying patterns
-- Enhanced data-driven decision-making for inventory and marketing strategies
-- Increased visibility into sales performance across multiple business dimensions
+- Improved visibility into sales trends across multiple dimensions
+- Enabled data-driven adjustments to retail strategies during uncertain times
+- Supported enhanced decision-making to capitalize on shifting consumer behavior
 
 ---
 
