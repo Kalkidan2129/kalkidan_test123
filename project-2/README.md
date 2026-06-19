@@ -3,50 +3,51 @@
 
 ## Project Overview
 
-This project created a comprehensive sales dashboard for a global superstore using Power BI, visualizing sales data by country, segment, category, and subcategory. It enabled stakeholders to analyze shifting consumer behaviors and sales trends influenced by the pandemic. The dashboard supports data-driven decision-making through clear KPIs and interactive visuals.
+This project involved creating an interactive Power BI dashboard to analyze global superstore sales impacted by the shift to e-commerce during the pandemic. The dashboard visualizes sales data across multiple dimensions including country, segment, category, and subcategory to support data-driven decision making. It enables stakeholders to identify trends and optimize sales strategies effectively.
 
 ---
 
 ## Business Problem
 
-The COVID-19 pandemic drastically changed consumer shopping habits, increasing online purchases and impacting retail sales channels. Retailers needed a way to understand these shifts across regions and product segments to optimize sales strategies. Without consolidated insights, decision-makers lacked visibility into evolving market dynamics.
+The COVID-19 pandemic accelerated the shift from traditional in-store shopping to online purchasing, creating challenges in understanding evolving sales patterns. Retailers needed a comprehensive tool to visualize and analyze sales data across regions and product categories to adapt to changing consumer behavior. Without such insights, businesses risked missing opportunities to optimize inventory and marketing efforts.
 
 ---
 
 ## Objective
 
-- Build an interactive dashboard to visualize sales by country, segment, category, and subcategory
-- Enable identification of sales trends and patterns influenced by the pandemic
-- Provide actionable insights to support strategic retail decision-making
+- Create a dynamic dashboard to visualize sales by country, segment, category, and subcategory
+- Enable identification of sales trends and performance variations during the pandemic
+- Support data-driven decision making to improve sales strategies and customer targeting
 
 ---
 
 ## Tools & Technologies
 
 - Power BI
-- DAX
 - Excel
-- Power Query
+- DAX
 - Data Modeling
+- Data Visualization
+- Power Query
 
 ---
 
 ## Project Workflow
 
-- Collect and prepare global superstore sales data
-- Create data model and relationships in Power BI
-- Design and build interactive visuals including line and clustered column charts
-- Develop KPIs and sales indicators using DAX calculations
-- Implement slicers and filters for dynamic data exploration
+- Gather and clean sales data from multiple sources
+- Build data model and relationships in Power BI
+- Create key performance indicators (KPIs) and DAX measures
+- Design interactive visuals including line and clustered column charts
+- Develop slicers and filters for dynamic data exploration
 
 ---
 
 ## Key Insights
 
-- Significant increase in online sales during pandemic lockdowns
-- Sales performance varied notably by country and segment
-- Certain product categories and subcategories outperformed others
-- Interactive KPIs highlighted monthly sales trends and anomalies
+- E-commerce sales increased significantly during pandemic lockdowns
+- Sales performance varied widely by country and customer segment
+- Certain product categories and subcategories outperformed others consistently
+- Visualizing sales data side-by-side revealed correlations across regions and segments
 
 ---
 
@@ -58,9 +59,9 @@ The COVID-19 pandemic drastically changed consumer shopping habits, increasing o
 
 ## Business Impact
 
-- Improved visibility into sales trends across multiple dimensions
-- Enabled data-driven adjustments to retail strategies during uncertain times
-- Supported enhanced decision-making to capitalize on shifting consumer behavior
+- Improved ability to track and respond to shifting consumer buying behaviors
+- Enhanced sales strategy through targeted insights by segment and geography
+- Enabled data-driven decisions that optimize inventory and marketing efforts
 
 ---
 
