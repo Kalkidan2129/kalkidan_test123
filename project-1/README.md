@@ -3,21 +3,21 @@
 
 ## Project Overview
 
-This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores across the US between 2010 and 2012. It included data import, transformation, DAX measure creation, and visualization to uncover sales trends during the post-recession period. The dashboard provided actionable insights into sales performance impacted by economic factors.
+This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores across the US between 2010 and 2012. The analysis focused on understanding sales performance during the recovery period following the 2008 recession. Key data modeling and DAX measures were implemented to provide actionable insights.
 
 ---
 
 ## Business Problem
 
-Walmart stores faced fluctuating sales during the recovery period following the 2008 recession, impacting revenue and operational planning. Understanding sales trends and external factors was critical to optimizing store performance and inventory management. The challenge was to analyze multi-year sales data effectively to guide business strategy.
+Walmart stores faced fluctuating sales impacted by the aftermath of the 2008 recession, affecting revenue and operational planning. There was a need to analyze sales trends to identify patterns and factors influencing store performance. Understanding these dynamics was critical for strategic decision-making to improve sales outcomes.
 
 ---
 
 ## Objective
 
-- Import and clean Walmart sales data for analysis in Power BI
-- Create time intelligence and conditional columns to segment sales data
-- Develop interactive dashboards to visualize sales trends and key metrics
+- Import and model Walmart sales data in Power BI for analysis
+- Create calculated columns and DAX measures to evaluate sales trends
+- Develop an interactive dashboard to visualize year-over-year sales performance
 
 ---
 
@@ -27,7 +27,7 @@ Walmart stores faced fluctuating sales during the recovery period following the 
 - DAX (Data Analysis Expressions)
 - Excel
 - Power Query Editor
-- CSV Data Files
+- CSV data files
 
 ---
 
@@ -36,17 +36,17 @@ Walmart stores faced fluctuating sales during the recovery period following the 
 - Import Walmart sales CSV data into Power BI Desktop
 - Create calendar and refresh date tables using DAX
 - Establish relationships between sales and calendar tables
-- Add conditional columns for holidays and unemployment rates
-- Develop DAX measures and build interactive sales dashboards
+- Add conditional columns for holiday and unemployment flags
+- Develop DAX measures for total sales, average sales, and year-over-year growth
 
 ---
 
 ## Key Insights
 
 - Sales trends showed variability influenced by economic recovery post-2008 recession
-- Holiday weeks and unemployment rates significantly impacted weekly sales figures
-- Custom sorting of months and conditional flags improved data clarity and reporting
-- Year-over-year sales comparisons highlighted stores with consistent growth and decline
+- Holiday weeks and unemployment rates impacted weekly sales performance
+- Month-over-month sales comparisons revealed seasonal patterns
+- Data relationships enabled effective time-based sales analysis
 
 ---
 
@@ -58,9 +58,9 @@ Walmart stores faced fluctuating sales during the recovery period following the 
 
 ## Business Impact
 
-- Enabled Walmart to identify sales patterns and adjust inventory accordingly
-- Provided actionable insights to improve store-level sales strategies
-- Enhanced reporting efficiency through automated dashboards and measures
+- Enabled Walmart to identify sales fluctuations related to economic factors
+- Provided actionable insights to optimize store operations during recovery periods
+- Supported data-driven decision-making for sales and marketing strategies
 
 ---
 

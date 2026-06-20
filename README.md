@@ -1,6 +1,6 @@
-# Hi, I'm kal 👋
+# Hi, I'm kalkidan 👋
 
-## BI Analyst
+## Power BI Developer
 
 
 ## Skills & Tools
@@ -11,11 +11,14 @@
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable business insights using tools like Power BI and Excel. My experience includes building interactive dashboards and reports that support decision-making by visualizing trends and performance metrics, particularly within the retail sector. I am confident in leveraging data analytics and business intelligence techniques to help organizations better understand their operations and drive growth.
+I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. My work focuses on creating interactive dashboards and reports that support business intelligence and informed decision-making, particularly within the retail sector. I am adept at analyzing trends and patterns to help organizations understand performance dynamics and drive strategic outcomes.
 
 ---
 
-## Projects<table>
+## Projects
+
+
+<table>
 <tr>
 <td width="45%" align="center" valign="middle">
 
@@ -26,9 +29,15 @@ I am a data analyst skilled in transforming raw sales data into actionable busin
 <td width="55%" valign="top">
 
 
-## Walmart Store Sales
 
-Analyzed multi-year Walmart sales data using Power BI to deliver actionable retail insights supporting inventory optimization and strategic decision-making during post-recession recovery.
+
+<p style="font-size:16px; line-height:1.5; margin:0 0 8px 0;">
+  <strong>Walmart Store Sales</strong>
+</p>
+
+<p style="font-size:16px; line-height:1.5; margin:0 0 12px 0;">
+  Analyzed Walmart’s 2010-2012 sales data by building a Power BI dashboard to identify trends and support strategic retail decision-making during economic recovery.
+</p>
 
  <code>Power BI Desktop</code> <code>DAX</code> <code>Excel</code>
 
@@ -44,68 +53,6 @@ Analyzed multi-year Walmart sales data using Power BI to deliver actionable reta
 
 <br>
 
-
-<table>
-<tr>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://app.colaberry.com/uploads/ProjectRequest/36786/Global_SuperStore_Gif_.gif" width="100%" height="220">
-
-</td>
-
-<td width="55%" valign="top">
-
-
-## Global Superstore Sales Dashboard
-
-Built an interactive Power BI dashboard delivering actionable sales insights by country, segment, and category to support strategic decision-making in global retail operations.
-
- <code>Power BI</code> <code>DAX</code> <code>Excel</code>
-
-<br>
-
-<p align="right">
-  <a href="./project-2/README.md"><b>View Full Project →</b></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-
-
-<table>
-<tr>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://app.colaberry.com/uploads/ProjectRequest/32503/Final_Pic.JPG" width="100%" height="220">
-
-</td>
-
-<td width="55%" valign="top">
-
-
-## Air Traffic Control Awareness and Wildlife Strikes
-
-Analyzed pilot warning data using Power BI to create an interactive dashboard that supports aviation safety decisions and reduces wildlife strike damage costs.
-
- <code>Power BI</code> <code>SQL Server</code> <code>Microsoft Office</code>
-
-<br>
-
-<p align="right">
-  <a href="./project-3/README.md"><b>View Full Project →</b></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<br>
 
 ---
 
