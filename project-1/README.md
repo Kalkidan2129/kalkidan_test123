@@ -3,50 +3,53 @@
 
 ## Project Overview
 
-This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores in the US between 2010 and 2012. The analysis focused on understanding sales impacts during the recovery period following the 2008 recession. Key data transformations included creating relationships between sales and calendar tables and adding conditional columns for holiday weeks and unemployment rates.
+This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores across the US between 2010 and 2012. The dashboard provided insights into sales performance during the post-recession period, leveraging DAX measures and data modeling techniques to enhance retail analytics.
 
 ---
 
 ## Business Problem
 
-Walmart stores, like many discount retailers, experienced fluctuating sales during the post-recession recovery period. Understanding these sales trends was critical to identifying factors affecting store performance and informing strategic decisions. The challenge was to visualize and analyze multi-year sales data effectively to uncover actionable insights.
+Walmart stores faced fluctuating sales impacts in the aftermath of the 2008 recession, similar to other discount retailers. The business required detailed sales trend analysis to identify patterns and support strategic decision-making to improve store performance.
 
 ---
 
 ## Objective
 
-- Analyze year-over-year sales trends across multiple Walmart stores
-- Incorporate external factors like holidays and unemployment rates into sales analysis
-- Develop an interactive dashboard for clear visualization of sales performance
+- Import and model Walmart sales data in Power BI for analysis
+- Create calculated columns and DAX measures to evaluate sales trends
+- Develop an interactive dashboard to visualize year-over-year sales performance
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
-- Power Query Editor
-- Excel
 - Power BI Desktop
-- Colaberry Power BI Cloud
+- DAX
+- Excel
+- Power Query Editor
+- CSV Data Files
 
 ---
 
 ## Project Workflow
 
-- Import and clean Walmart sales data
-- Create relationships between sales and calendar tables
-- Add conditional columns for holiday flags and unemployment rates
-- Design and build interactive Power BI dashboard
-- Deploy dashboard to Colaberry Power BI Cloud
+- Import Walmart sales CSV data into Power BI Desktop
+- Create calendar and refresh date tables using DAX
+- Establish relationships between sales and calendar tables
+- Build conditional columns for holiday and unemployment analysis
+- Develop DAX measures to calculate total, average, and year-over-year sales
+- Design and customize the dashboard with logos and titles
+- Apply custom sorting for better data presentation
+- Publish and deploy the dashboard to Power BI Cloud
 
 ---
 
 ## Key Insights
 
-- Sales trends showed variability influenced by holiday weeks
-- Unemployment rates correlated with fluctuations in store sales
-- Post-recession recovery period impacted discount store performance
-- Data relationships between sales and calendar dates enhanced analysis accuracy
+- Sales trends showed variability influenced by holiday weeks and unemployment rates
+- Year-over-year sales growth was measurable despite post-recession challenges
+- Custom date tables enabled accurate time-based sales comparisons
+- Conditional columns helped segment sales data by economic and seasonal factors
 
 ---
 
@@ -58,9 +61,9 @@ Walmart stores, like many discount retailers, experienced fluctuating sales duri
 
 ## Business Impact
 
-- Enabled Walmart to identify key periods affecting sales performance
-- Provided actionable insights for strategic planning during economic recovery
-- Improved decision-making through interactive and visual sales dashboards
+- Enabled Walmart to identify sales performance patterns across stores
+- Supported strategic planning with clear visualization of sales trends
+- Improved decision-making through detailed post-recession sales analysis
 
 ---
 

@@ -21,11 +21,11 @@
     },
     {
       "stepNumber": 2,
-      "content": "Walmart Store Sales\nThis project dashboard assess year over year sales conducted among 45 random Walmart Stores in the US between Feb 2010 and Oct 2012. Although this was a dawn era of coming out of the great recession of 2008, these Walmart Stores have faced an impact in sales like any discount or department stores.\nStep Name:Expected Final Dashboard\nDetailed Instructions:\n\nInsight: \n\nIntroduction to dashboards for Power BI designers"
+      "content": "Walmart Store Sales\nThis project dashboard assess year over year sales conducted among 45 random Walmart Stores in the US between Feb 2010 and Oct 2012. Although this was a dawn era of coming out of the great recession of 2008, these Walmart Stores have faced an impact in sales like any discount or department stores.\nStep Name:Import CSV file into Power BI Desktop\nDetailed Instructions:\n\nSteps\n\nDownload the 'Walmart Sales Data'  file by clicking the red icon above.\nOpen Power BI Desktop\nClick on Get data button \nSelect Text/CSV and click on connect \nSelect the 'Walmart' CSV file and click on Open\nA preview of the data will be displayed, click on Load \n\nInsight: \n\nImporting Bulk Files in Power BI"
     },
     {
       "stepNumber": 3,
-      "content": "Walmart Store Sales\nThis project dashboard assess year over year sales conducted among 45 random Walmart Stores in the US between Feb 2010 and Oct 2012. Although this was a dawn era of coming out of the great recession of 2008, these Walmart Stores have faced an impact in sales like any discount or department stores.\nStep Name:Expected Final Dashboard\nDetailed Instructions:\n\nInsight: \n\nIntroduction to dashboards for Power BI designers"
+      "content": "Walmart Store Sales\nThis project dashboard assess year over year sales conducted among 45 random Walmart Stores in the US between Feb 2010 and Oct 2012. Although this was a dawn era of coming out of the great recession of 2008, these Walmart Stores have faced an impact in sales like any discount or department stores.\nStep Name:Create Calendar Table, and Refresh Date Table\nDetailed Instructions:\nSteps(Calendar Table)\nOn Power BI desktop under Modeling click on New table button \n\nType the Dax formula below in the Dax formula bar, Click on the check mark, and save\n\nCalendar = ADDCOLUMNS(CALENDARAUTO(),\n\n\"Year\", Year([Date]),\n\n\"Month Number\", Month([Date]),\n\n\"Month Name Short\", FORMAT([Date],\"MMM\")\n\n)\n\nSteps(Refresh Date Table)\n\nOn Power BI Desktop ribbon, Click on Transform data\nClick on New Source button, and select Blank query from the list and click on Connect\nUnder properties in the Name box type in 'Refresh Date'\nOn the Dax formula bar type ' =Date Time.LocalNow()'\nClick on Convert to Table button \nAfter the refresh table pops up, rename the column by right clicking and choosing rename from the selection\nClick  on Close & apply button and save \n\nInsight: \n\nHow to create a Date Table in Power BI"
     },
     {
       "stepNumber": 4,
@@ -37,11 +37,11 @@
     },
     {
       "stepNumber": 6,
-      "content": "Walmart Store Sales\nThis project dashboard assess year over year sales conducted among 45 random Walmart Stores in the US between Feb 2010 and Oct 2012. Although this was a dawn era of coming out of the great recession of 2008, these Walmart Stores have faced an impact in sales like any discount or department stores.\nStep Name:Create conditional columns\nDetailed Instructions:\n\nSteps(Holiday Weeks)\n\nSelect Transform Data from the Home tab\nUnder power query Editor click on Add Column tab\nSelect Conditional Column \nIn New Column Name box type in 'Holiday Flag 2'\nIn the IF statement boxes type in values like shown in the image below\nAfter filling up one line to go to the next line, click on the Add Clause button \nPress OK\nUnder Home tab , Click close and Apply  \n\nSteps(Unemployment Rate)\n\nSelect Transform Data from the Home tab\nUnder power query Editor click on Add Column tab\nSelect Conditional Column \nIn New Column Name box type in 'Unemployment Rate'\nIn the IF statement boxes type in values like shown in the image below\nAfter filling up one line, to go to the next line click on the Add Clause button \nAfter filling up all the statements needed, Press OK\nUnder Home tab , Click close and Apply  \n\nInsight: \nWriting IF Statements in Power Query"
+      "content": "Walmart Store Sales\nThis project dashboard assess year over year sales conducted among 45 random Walmart Stores in the US between Feb 2010 and Oct 2012. Although this was a dawn era of coming out of the great recession of 2008, these Walmart Stores have faced an impact in sales like any discount or department stores.\nStep Name:Create Sorting Columns for the conditional Columns, and custom sort them\nDetailed Instructions:\n\nSteps\n\nCreate conditional columns for Holiday Order and Unemployment group using steps as shown in the gif and images below\n\nA. Holiday Order \n\nB. Unemployment Group \n\nSteps (Custom Column Sorting)\n\n Click on the Table tab  on the left of the canvas, and select the 'Walmart' Table\nHighlight 'Holiday Flag 2' Column by clicking on the header \nUnder Column tools tab, right click on Sort by Column Tab and choose Holiday Order from the drop down option \nHighlight 'Unemployment Rate' column and under sort by column tab, choose Unemployment group\nSelect Calendar Table, and highlight 'Month Name short' column \nRight Click on Sort by Column Tab and choose Month Number from the drop down option \nSave\n\nInsight: \nSort by more than one column in Power BI"
     },
     {
       "stepNumber": 7,
-      "content": "Walmart Store Sales\nThis project dashboard assess year over year sales conducted among 45 random Walmart Stores in the US between Feb 2010 and Oct 2012. Although this was a dawn era of coming out of the great recession of 2008, these Walmart Stores have faced an impact in sales like any discount or department stores.\nStep Name:Create conditional columns\nDetailed Instructions:\n\nSteps(Holiday Weeks)\n\nSelect Transform Data from the Home tab\nUnder power query Editor click on Add Column tab\nSelect Conditional Column \nIn New Column Name box type in 'Holiday Flag 2'\nIn the IF statement boxes type in values like shown in the image below\nAfter filling up one line to go to the next line, click on the Add Clause button \nPress OK\nUnder Home tab , Click close and Apply  \n\nSteps(Unemployment Rate)\n\nSelect Transform Data from the Home tab\nUnder power query Editor click on Add Column tab\nSelect Conditional Column \nIn New Column Name box type in 'Unemployment Rate'\nIn the IF statement boxes type in values like shown in the image below\nAfter filling up one line, to go to the next line click on the Add Clause button \nAfter filling up all the statements needed, Press OK\nUnder Home tab , Click close and Apply  \n\nInsight: \nWriting IF Statements in Power Query"
+      "content": "Walmart Store Sales\nThis project dashboard assess year over year sales conducted among 45 random Walmart Stores in the US between Feb 2010 and Oct 2012. Although this was a dawn era of coming out of the great recession of 2008, these Walmart Stores have faced an impact in sales like any discount or department stores.\nStep Name:Create DAX measures\nDetailed Instructions:\n\nSteps \n\nSelect the Walmart Table under the fields pane by clicking on it \nFrom Power BI desktop ribbon, Home tab click on New measure \nThe formula bar appears along the top of the report canvas. \n Fill in all the DAX formulas provided below, one at a time, and when you finish Press Enter or select Commit (checkmark icon) in the formula bar.  \n\nAfter creating each measure choose the necessary format and decimal for each value (measure)\nSave\n\nDAX Formulas\n\nTotal Sales = SUM(Walmart[Weekly_Sales])\n\n \n\nSales Per Month = DIVIDE([Total Sales],DISTINCTCOUNT('Calendar'[Month Name Short]),0)+0\n\n \n\nAVG Sales = AVERAGE(Walmart[Weekly_Sales])\n\n \n\nSales YOY =\n\nVAR PYSales =\n\nCALCULATE([AVG Sales], DATEADD('Calendar'[Date],-1,YEAR))\n\nRETURN\n\nIF(ISBLANK(PYSales),0,DIVIDE(([AVG Sales]-PYSales),PYSales))          \n\n \n\nAVG CPI = AVERAGE(Walmart[CPI])\n\n \n\nCPI YOY =\n\nVAR LYCPI =\n\nCALCULATE([AVG CPI],DATEADD('Calendar'[Date],-1,YEAR))\n\nRETURN\n\nIF(ISBLANK(LYCPI),0,DIVIDE(([AVG CPI]-LYCPI),LYCPI))  \n\n \n\nArrow YOY% = SWITCH(TRUE(), [.Sales YOY] <0, UNICHAR(9662),[.Sales YOY] =0, UNICHAR(9666), UNICHAR(9652))\n\nArrow YOY CPI = SWITCH(TRUE(), [.CPI YOY] <0, UNICHAR(9662),[.CPI YOY] =0, UNICHAR(9666), UNICHAR(9652))\n\nFormats\n\nTotal Sales = Currency, Decimals = 2\nSales per Month = Currency, Decimals = 2\nAVG Sales = Currency, Decimals = 2\nSales YOY = Percentage, Decimals = 2\nAVG CPI = Currency, Decimals = 2\nCPI YOY = Percentage, Decimals = 2\nArrow YOY% = Text\nArrow YOY CPI = Text\n\nInsight: \nDAX Formulas & Creating Measures"
     },
     {
       "stepNumber": 8,
@@ -84,47 +84,51 @@
     "category": "Retail Analytics",
     "industry": "Retail",
     "generationSource": "ai",
-    "portfolioSummary": "Developed a Power BI dashboard analyzing Walmart store sales trends post-2008 recession across 45 US locations.",
-    "summary": "This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores in the US between 2010 and 2012. The analysis focused on understanding sales impacts during the recovery period following the 2008 recession. Key data transformations included creating relationships between sales and calendar tables and adding conditional columns for holiday weeks and unemployment rates.",
-    "businessProblem": "Walmart stores, like many discount retailers, experienced fluctuating sales during the post-recession recovery period. Understanding these sales trends was critical to identifying factors affecting store performance and informing strategic decisions. The challenge was to visualize and analyze multi-year sales data effectively to uncover actionable insights.",
+    "portfolioSummary": "Developed a Power BI dashboard analyzing Walmart store sales trends from 2010 to 2012 to support data-driven retail decisions.",
+    "summary": "This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores across the US between 2010 and 2012. The dashboard provided insights into sales performance during the post-recession period, leveraging DAX measures and data modeling techniques to enhance retail analytics.",
+    "businessProblem": "Walmart stores faced fluctuating sales impacts in the aftermath of the 2008 recession, similar to other discount retailers. The business required detailed sales trend analysis to identify patterns and support strategic decision-making to improve store performance.",
     "objectives": [
-      "Analyze year-over-year sales trends across multiple Walmart stores",
-      "Incorporate external factors like holidays and unemployment rates into sales analysis",
-      "Develop an interactive dashboard for clear visualization of sales performance"
+      "Import and model Walmart sales data in Power BI for analysis",
+      "Create calculated columns and DAX measures to evaluate sales trends",
+      "Develop an interactive dashboard to visualize year-over-year sales performance"
     ],
     "tools": [
-      "Power BI",
-      "Power Query Editor",
-      "Excel",
       "Power BI Desktop",
-      "Colaberry Power BI Cloud"
+      "DAX",
+      "Excel",
+      "Power Query Editor",
+      "CSV Data Files"
     ],
     "skills": [
-      "Data visualization",
-      "Data modeling",
-      "Conditional column creation",
-      "Time series analysis",
-      "Dashboard design",
-      "Data transformation",
-      "Business analytics"
+      "Data Import and Transformation",
+      "Data Modeling and Relationships",
+      "DAX Calculations and Measures",
+      "Dashboard Design and Visualization",
+      "Time Intelligence Analysis",
+      "Conditional Column Creation",
+      "Custom Sorting in Power BI",
+      "Business Data Interpretation"
     ],
     "workflow": [
-      "Import and clean Walmart sales data",
-      "Create relationships between sales and calendar tables",
-      "Add conditional columns for holiday flags and unemployment rates",
-      "Design and build interactive Power BI dashboard",
-      "Deploy dashboard to Colaberry Power BI Cloud"
+      "Import Walmart sales CSV data into Power BI Desktop",
+      "Create calendar and refresh date tables using DAX",
+      "Establish relationships between sales and calendar tables",
+      "Build conditional columns for holiday and unemployment analysis",
+      "Develop DAX measures to calculate total, average, and year-over-year sales",
+      "Design and customize the dashboard with logos and titles",
+      "Apply custom sorting for better data presentation",
+      "Publish and deploy the dashboard to Power BI Cloud"
     ],
     "keyInsights": [
-      "Sales trends showed variability influenced by holiday weeks",
-      "Unemployment rates correlated with fluctuations in store sales",
-      "Post-recession recovery period impacted discount store performance",
-      "Data relationships between sales and calendar dates enhanced analysis accuracy"
+      "Sales trends showed variability influenced by holiday weeks and unemployment rates",
+      "Year-over-year sales growth was measurable despite post-recession challenges",
+      "Custom date tables enabled accurate time-based sales comparisons",
+      "Conditional columns helped segment sales data by economic and seasonal factors"
     ],
     "businessImpact": [
-      "Enabled Walmart to identify key periods affecting sales performance",
-      "Provided actionable insights for strategic planning during economic recovery",
-      "Improved decision-making through interactive and visual sales dashboards"
+      "Enabled Walmart to identify sales performance patterns across stores",
+      "Supported strategic planning with clear visualization of sales trends",
+      "Improved decision-making through detailed post-recession sales analysis"
     ],
     "imageUrl": "https://app.colaberry.com/uploads/ProjectRequest/182/Walmart_es.gif"
   }
