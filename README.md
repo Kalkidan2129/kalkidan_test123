@@ -1,6 +1,6 @@
-# Hi, I'm kalkidan 👋
+# Hi, I'm kal 👋
 
-## Power BI Developer
+## BI Analyst
 
 
 ## Skills & Tools
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. My experience includes developing interactive dashboards and reports that support business intelligence and decision-making in retail environments. I am confident in leveraging data visualization and analytics to uncover trends and drive strategic outcomes.
+I am a data analyst skilled in transforming raw sales data into actionable business insights using tools like Power BI and Excel. My experience includes building interactive dashboards and reports that support decision-making by visualizing trends and performance metrics, particularly within the retail sector. I am confident in leveraging data analytics and business intelligence techniques to help organizations better understand their operations and drive growth.
 
 ---
 
@@ -111,4 +111,4 @@ Analyzed pilot warning data using Power BI to create an interactive dashboard th
 
 ## Contact
 
-<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
