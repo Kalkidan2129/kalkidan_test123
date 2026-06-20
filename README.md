@@ -48,6 +48,35 @@ Analyzed multi-year Walmart sales data and designed a dynamic Power BI dashboard
 <br>
 
 
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/32503/Final_Pic.JPG" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+
+## Air Traffic Control Awareness and Wildlife Strikes
+
+Analyzed aviation wildlife strike data and built a Power BI dashboard to assess pilot awareness impact on damage control and enhance flight safety decision-making.
+
+ <code>Power BI</code> <code>SQL Server</code> <code>Microsoft Office</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-1/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ---
 
 ## Contact
