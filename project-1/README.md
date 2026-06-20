@@ -3,53 +3,50 @@
 
 ## Project Overview
 
-This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores in the US between 2010 and 2012. The analysis focused on understanding sales impacts during the recovery period following the 2008 recession. Key data modeling, DAX measures, and visualizations were developed to provide actionable retail insights.
+This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores in the US between 2010 and 2012. The analysis focused on understanding sales impacts during the recovery period following the 2008 recession. Key data transformations included creating relationships between sales and calendar tables and adding conditional columns for holiday weeks and unemployment rates.
 
 ---
 
 ## Business Problem
 
-Walmart stores, like many discount retailers, experienced fluctuating sales during the recovery from the 2008 recession. Understanding these sales trends was critical to optimizing store operations and marketing strategies. The challenge was to analyze multi-year sales data to identify patterns and factors influencing performance.
+Walmart stores, like many discount retailers, experienced fluctuating sales during the post-recession recovery period. Understanding these sales trends was critical to identifying factors affecting store performance and informing strategic decisions. The challenge was to visualize and analyze multi-year sales data effectively to uncover actionable insights.
 
 ---
 
 ## Objective
 
-- Import and model Walmart sales data in Power BI for analysis
-- Create time intelligence measures to assess year-over-year sales trends
-- Develop an interactive dashboard to visualize sales performance and key factors
+- Analyze year-over-year sales trends across multiple Walmart stores
+- Incorporate external factors like holidays and unemployment rates into sales analysis
+- Develop an interactive dashboard for clear visualization of sales performance
 
 ---
 
 ## Tools & Technologies
 
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Excel
+- Power BI
 - Power Query Editor
-- CSV data files
+- Excel
+- Power BI Desktop
+- Colaberry Power BI Cloud
 
 ---
 
 ## Project Workflow
 
-- Import Walmart sales CSV data into Power BI Desktop
-- Create calendar and refresh date tables for time intelligence
-- Establish relationships between sales and calendar tables
-- Add conditional columns for holiday and unemployment flags
-- Develop DAX measures for total, average, and year-over-year sales
-- Design and customize the interactive sales dashboard
-- Add branding elements like Walmart and Colaberry logos
-- Publish and deploy the dashboard on Power BI cloud
+- Import and clean Walmart sales data
+- Create relationships between sales and calendar tables
+- Add conditional columns for holiday flags and unemployment rates
+- Design and build interactive Power BI dashboard
+- Deploy dashboard to Colaberry Power BI Cloud
 
 ---
 
 ## Key Insights
 
-- Sales trends showed variability influenced by economic recovery post-2008 recession
-- Holiday weeks and unemployment rates impacted weekly sales performance
-- Month-over-month and year-over-year sales comparisons revealed seasonal patterns
-- Data relationships and custom sorting enhanced clarity of sales visualizations
+- Sales trends showed variability influenced by holiday weeks
+- Unemployment rates correlated with fluctuations in store sales
+- Post-recession recovery period impacted discount store performance
+- Data relationships between sales and calendar dates enhanced analysis accuracy
 
 ---
 
@@ -61,9 +58,9 @@ Walmart stores, like many discount retailers, experienced fluctuating sales duri
 
 ## Business Impact
 
-- Enabled Walmart to identify sales fluctuations during economic recovery
-- Provided actionable insights to optimize store operations and marketing
-- Improved decision-making through interactive and timely sales reporting
+- Enabled Walmart to identify key periods affecting sales performance
+- Provided actionable insights for strategic planning during economic recovery
+- Improved decision-making through interactive and visual sales dashboards
 
 ---
 

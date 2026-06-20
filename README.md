@@ -1,17 +1,17 @@
-# Hi, I'm kal 👋
+# Hi, I'm kalkidan 👋
 
-## Power BI Developer
+## BI Analyst
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/CSV-FF7A00?style=for-the-badge&logoColor=white" alt="CSV">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Power%20Query-025E8C?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Colaberry%20Power%20BI%20Cloud-217346?style=for-the-badge&logoColor=white" alt="Colaberry Power BI Cloud">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable business insights using tools like Power BI and Excel. I specialize in creating dynamic dashboards and reports that support decision-making and highlight trends within the retail sector. My work focuses on leveraging data visualization and business intelligence techniques to help organizations better understand performance and drive strategic growth.
+I am a data analyst skilled in transforming raw sales data into actionable business insights using tools such as Power BI and Excel. I specialize in creating dynamic dashboards and reports that support data-driven decision-making, particularly within the retail sector. My work focuses on leveraging business intelligence techniques to analyze trends and performance, enabling stakeholders to make informed strategic choices.
 
 ---
 
@@ -28,15 +28,13 @@ I am a data analyst skilled in transforming raw sales data into actionable busin
 
 <td width="55%" valign="top">
 
-<b>Walmart Store Sales</b>
+## Walmart Store Sales
+
+Analyzed year-over-year Walmart store sales trends post-2008 recession and integrated external factors using Power BI to enhance strategic retail decision-making.
 
 <br><br>
 
-Analyzed multi-year Walmart sales data post-2008 recession and designed an interactive Power BI dashboard to deliver actionable retail performance insights.
-
-<br><br>
-
-<code>Power BI Desktop</code> <code>DAX</code> <code>Excel</code>
+<code>Power BI</code> <code>Power Query Editor</code> <code>Excel</code>
 
 <br>
 
