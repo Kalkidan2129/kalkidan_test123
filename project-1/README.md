@@ -1,54 +1,52 @@
 
-# Walmart Store Sales
+# Air Traffic Control Awareness and Wildlife Strikes
 
 ## Project Overview
 
-This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores across the US between 2010 and 2012. It included data import, transformation, relationship modeling, and DAX measure creation to uncover sales trends during the post-recession period. The dashboard provided actionable insights into sales performance impacted by economic factors.
+This project created a comprehensive dashboard to analyze the effects of pilot warnings on wildlife strike damage costs and passenger safety during flights. Using SQL Server and Power BI, the dashboard visualizes key metrics comparing informed versus uninformed pilots. The insights help improve air traffic control strategies to mitigate wildlife strike risks.
 
 ---
 
 ## Business Problem
 
-Walmart stores, like other discount retailers, experienced fluctuating sales during the recovery period following the 2008 recession. Understanding these sales trends was critical to identifying factors affecting store performance and guiding strategic decisions to improve revenue.
+Wildlife strikes pose significant safety risks and financial costs to airlines, often exacerbated by lack of timely pilot warnings. There is a need to understand how pilot awareness influences damage control and passenger safety. Improving this awareness can reduce repair costs and enhance flight safety.
 
 ---
 
 ## Objective
 
-- Import and model Walmart sales data for accurate analysis
-- Create calculated columns and DAX measures to evaluate sales trends
-- Develop an interactive Power BI dashboard to visualize year-over-year sales
+- Analyze the impact of pilot warnings on wildlife strike damage costs
+- Visualize key safety and damage metrics using interactive dashboards
+- Provide actionable insights to improve air traffic control communication
 
 ---
 
 ## Tools & Technologies
 
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Power Query Editor
-- Excel (for initial data handling)
-- Power BI Cloud (for deployment)
+- Power BI
+- SQL Server
+- Microsoft Office
+- SQL scripting
+- Data modeling
 
 ---
 
 ## Project Workflow
 
-- Import Walmart sales CSV data into Power BI Desktop
-- Create calendar and refresh date tables using DAX
-- Establish relationships between sales and calendar tables
-- Add conditional columns for holiday flags and unemployment rates
-- Develop DAX measures to calculate total and year-over-year sales
-- Design and customize the dashboard with logos and titles
-- Deploy the dashboard to Power BI Cloud for sharing
+- Load and prepare wildlife strike data using SQL Server
+- Import and model data within Power BI
+- Create slicers and KPI cards for interactive analysis
+- Design and format dashboard with logos and titles
+- Analyze and compare pilot warning impact on damage and safety
 
 ---
 
 ## Key Insights
 
-- Sales trends showed variability influenced by post-recession economic conditions
-- Holiday weeks and unemployment rates impacted weekly sales performance
-- Month-over-month and year-over-year sales comparisons revealed recovery patterns
-- Custom sorting and conditional columns enhanced data clarity and analysis
+- Well-informed pilots reduce wildlife strike damage costs significantly
+- Timely warnings correlate with fewer injuries and fatalities
+- Damage repair costs increase when pilots are uninformed
+- Year-over-year trends highlight improvements in pilot awareness
 
 ---
 
@@ -60,9 +58,9 @@ Walmart stores, like other discount retailers, experienced fluctuating sales dur
 
 ## Business Impact
 
-- Enabled Walmart to identify sales performance drivers during economic recovery
-- Provided actionable insights to optimize store operations and marketing
-- Improved decision-making through interactive and visual sales reporting
+- Enhanced pilot warning protocols to improve flight safety
+- Reduced financial losses from wildlife strike damages
+- Improved stakeholder decision-making through clear visual insights
 
 ---
 

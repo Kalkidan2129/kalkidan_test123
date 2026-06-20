@@ -1,17 +1,17 @@
 # Hi, I'm kal 👋
 
-## BI
+## Power BI Developer
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Power%20Query-3776AB?style=for-the-badge&logoColor=white" alt="Power Query">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/SQL%20Server-025E8C?style=for-the-badge&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/Microsoft%20Office-3776AB?style=for-the-badge&logoColor=white" alt="Microsoft Office"> <img src="https://img.shields.io/badge/SQL%20scripting-217346?style=for-the-badge&logoColor=white" alt="SQL scripting"> <img src="https://img.shields.io/badge/Data%20modeling-FF7A00?style=for-the-badge&logoColor=white" alt="Data modeling">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. I specialize in creating dynamic dashboards and reports that support business intelligence and informed decision-making, particularly within the retail sector. My work focuses on analyzing trends and performance metrics to help organizations better understand their sales dynamics and market conditions.
+I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools such as Power BI, SQL Server, and Microsoft Office. I specialize in building interactive dashboards and reports that support informed decision-making and enhance business intelligence across operational contexts. My work demonstrates a strong ability to analyze and visualize data to improve safety and cost outcomes in transport-related scenarios.
 
 ---
 
@@ -22,18 +22,18 @@ I am a data analyst skilled in transforming raw sales data into actionable insig
 <tr>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://app.colaberry.com/uploads/ProjectRequest/182/Walmart_es.gif" width="100%" height="220">
+<img src="https://app.colaberry.com/uploads/ProjectRequest/32503/Final_Pic.JPG" width="100%" height="220">
 
 </td>
 
 <td width="55%" valign="top">
 
 
-## Walmart Store Sales
+## Air Traffic Control Awareness and Wildlife Strikes
 
-Analyzed year-over-year sales trends for 45 Walmart stores (2010-2012) by building an interactive Power BI dashboard to support retail performance optimization.
+Built a Power BI dashboard analyzing pilot warning impacts on wildlife strike damage and passenger safety to support improved air traffic control decision-making.
 
- <code>Power BI Desktop</code> <code>DAX</code> <code>Power Query Editor</code>
+ <code>Power BI</code> <code>SQL Server</code> <code>Microsoft Office</code>
 
 <br>
 
