@@ -1,17 +1,17 @@
 # Hi, I'm kalkidan 👋
 
-## Power BI
+## Power BI Developer
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logoColor=white" alt="Data Modeling"> <img src="https://img.shields.io/badge/Data%20Visualization-FF7A00?style=for-the-badge&logoColor=white" alt="Data Visualization">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/CSV-FF7A00?style=for-the-badge&logoColor=white" alt="CSV">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex retail data into clear, actionable insights using tools like Power BI and Excel. I specialize in building interactive dashboards and reports that support business intelligence and enhance decision-making by visualizing sales trends across multiple dimensions. My focus is on leveraging data to help organizations understand customer behavior and optimize performance in dynamic market environments.
+I am a data analyst skilled in transforming raw sales data into clear, actionable insights using tools such as Power BI and Excel. My work focuses on building dynamic dashboards and reports that support business intelligence and informed decision-making, particularly within the retail sector. I am confident in leveraging data analytics to uncover trends and drive performance improvements.
 
 ---
 
