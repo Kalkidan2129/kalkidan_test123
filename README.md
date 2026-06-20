@@ -48,6 +48,35 @@ Analyzed year-over-year Walmart store sales trends from 2010 to 2012 using Power
 <br>
 
 
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/32503/Final_Pic.JPG" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+
+## Air Traffic Control Awareness and Wildlife Strikes
+
+Analyzed pilot warning data using Power BI to create an interactive dashboard that supports aviation safety and reduces wildlife strike damage costs.
+
+ <code>Power BI</code> <code>SQL Server</code> <code>Microsoft Office</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-1/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ---
 
 ## Contact
