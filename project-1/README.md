@@ -1,52 +1,52 @@
 
-# Air Traffic Control Awareness and Wildlife Strikes
+# Walmart Store Sales
 
 ## Project Overview
 
-This project created a comprehensive dashboard to analyze the effects of pilot warnings on wildlife strike damage costs and passenger safety during flights. Using SQL Server and Power BI, the dashboard visualizes key metrics comparing informed versus uninformed pilots. The insights help improve air traffic control strategies to mitigate wildlife strike risks.
+This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores across the US between 2010 and 2012. It focused on visualizing sales trends during the recovery period following the 2008 recession. The dashboard incorporated data modeling, DAX measures, and custom columns to provide actionable insights.
 
 ---
 
 ## Business Problem
 
-Wildlife strikes pose significant safety risks and financial costs to airlines, often exacerbated by lack of timely pilot warnings. There is a need to understand how pilot awareness influences damage control and passenger safety. Improving this awareness can reduce repair costs and enhance flight safety.
+Walmart stores, like other discount retailers, experienced fluctuating sales during the post-2008 recession recovery period. Understanding these sales patterns was critical to optimizing store performance and inventory management. The challenge was to analyze multi-year sales data to identify trends and factors impacting sales.
 
 ---
 
 ## Objective
 
-- Analyze the impact of pilot warnings on wildlife strike damage costs
-- Visualize key safety and damage metrics using interactive dashboards
-- Provide actionable insights to improve air traffic control communication
+- Analyze year-over-year sales trends across multiple Walmart stores
+- Create a dynamic Power BI dashboard for data visualization and insights
+- Incorporate economic factors like holidays and unemployment rates into sales analysis
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
-- SQL Server
-- Microsoft Office
-- SQL scripting
-- Data modeling
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Power Query Editor
+- Excel (for initial data handling)
+- CSV data files
 
 ---
 
 ## Project Workflow
 
-- Load and prepare wildlife strike data using SQL Server
-- Import and model data within Power BI
-- Create slicers and KPI cards for interactive analysis
-- Design and format dashboard with logos and titles
-- Analyze and compare pilot warning impact on damage and safety
+- Import Walmart sales CSV data into Power BI Desktop
+- Create calendar and refresh date tables for time intelligence
+- Establish relationships between sales and calendar tables
+- Develop conditional columns for holidays and unemployment rates
+- Build DAX measures for total sales, average sales, and year-over-year growth
 
 ---
 
 ## Key Insights
 
-- Well-informed pilots reduce wildlife strike damage costs significantly
-- Timely warnings correlate with fewer injuries and fatalities
-- Damage repair costs increase when pilots are uninformed
-- Year-over-year trends highlight improvements in pilot awareness
+- Sales trends showed fluctuations reflecting the economic recovery post-2008 recession
+- Holiday periods and unemployment rates impacted weekly sales performance
+- Custom sorting of conditional columns improved clarity in trend analysis
+- Year-over-year sales growth varied significantly across different stores and months
 
 ---
 
@@ -58,9 +58,9 @@ Wildlife strikes pose significant safety risks and financial costs to airlines, 
 
 ## Business Impact
 
-- Enhanced pilot warning protocols to improve flight safety
-- Reduced financial losses from wildlife strike damages
-- Improved stakeholder decision-making through clear visual insights
+- Enabled Walmart to identify sales performance drivers during economic recovery
+- Provided actionable insights for inventory and promotional planning
+- Improved decision-making through interactive and dynamic sales dashboards
 
 ---
 
