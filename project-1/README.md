@@ -1,53 +1,55 @@
 
-# Global Superstore Sales Dashboard
+# Walmart Store Sales
 
 ## Project Overview
 
-This project involved creating a comprehensive Power BI dashboard to analyze global superstore sales data by country, segment, category, and subcategory. The dashboard enables visualization of sales trends and relationships across locations and departments, facilitating data-driven strategies. It addresses shifts in consumer shopping behavior accelerated by the pandemic.
+This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores in the US between 2010 and 2012. The analysis focused on understanding sales impacts during the recovery period following the 2008 recession. Key data modeling, DAX measures, and visualizations were developed to provide actionable retail insights.
 
 ---
 
 ## Business Problem
 
-The COVID-19 pandemic drastically changed shopping behaviors, increasing online purchases and impacting retail sales patterns globally. Retailers needed a way to understand these changes and optimize sales strategies across multiple dimensions. Without clear insights, businesses risked missing opportunities in evolving market segments and regions.
+Walmart stores, like many discount retailers, experienced fluctuating sales during the recovery from the 2008 recession. Understanding these sales trends was critical to optimizing store operations and marketing strategies. The challenge was to analyze multi-year sales data to identify patterns and factors influencing performance.
 
 ---
 
 ## Objective
 
-- Build an interactive dashboard to visualize sales data by country, segment, category, and subcategory
-- Enable identification of sales trends and patterns influenced by pandemic-driven consumer behavior shifts
-- Provide actionable insights to support strategic retail decision-making
+- Import and model Walmart sales data in Power BI for analysis
+- Create time intelligence measures to assess year-over-year sales trends
+- Develop an interactive dashboard to visualize sales performance and key factors
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
 - Excel
-- DAX
-- Power Query
-- Data Modeling
-- Data Visualization
+- Power Query Editor
+- CSV data files
 
 ---
 
 ## Project Workflow
 
-- Gathered and prepared global superstore sales data
-- Built data model integrating multiple sales dimensions
-- Designed and developed interactive Power BI dashboard visuals
-- Implemented filters and slicers for dynamic data exploration
-- Validated insights and refined dashboard for business usability
+- Import Walmart sales CSV data into Power BI Desktop
+- Create calendar and refresh date tables for time intelligence
+- Establish relationships between sales and calendar tables
+- Add conditional columns for holiday and unemployment flags
+- Develop DAX measures for total, average, and year-over-year sales
+- Design and customize the interactive sales dashboard
+- Add branding elements like Walmart and Colaberry logos
+- Publish and deploy the dashboard on Power BI cloud
 
 ---
 
 ## Key Insights
 
-- Sales patterns varied significantly by country during the pandemic period
-- Certain product categories and subcategories showed increased online demand
-- Customer segments exhibited distinct purchasing behaviors influenced by lockdowns
-- Visualizing sales data side-by-side enabled identification of cross-departmental trends
+- Sales trends showed variability influenced by economic recovery post-2008 recession
+- Holiday weeks and unemployment rates impacted weekly sales performance
+- Month-over-month and year-over-year sales comparisons revealed seasonal patterns
+- Data relationships and custom sorting enhanced clarity of sales visualizations
 
 ---
 
@@ -59,9 +61,9 @@ The COVID-19 pandemic drastically changed shopping behaviors, increasing online 
 
 ## Business Impact
 
-- Improved ability to track and respond to shifting sales trends globally
-- Enhanced strategic planning through data-driven insights on customer segments
-- Supported retail teams in optimizing product focus and resource allocation
+- Enabled Walmart to identify sales fluctuations during economic recovery
+- Provided actionable insights to optimize store operations and marketing
+- Improved decision-making through interactive and timely sales reporting
 
 ---
 
