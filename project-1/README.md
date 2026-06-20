@@ -1,52 +1,53 @@
 
-# Walmart Store Sales
+# Global Superstore Sales Dashboard
 
 ## Project Overview
 
-This project involved creating a comprehensive Power BI dashboard to analyze year-over-year sales data from 45 Walmart stores across the US between 2010 and 2012. The analysis focused on understanding sales performance during the recovery period following the 2008 recession. Key data modeling and DAX measures were implemented to provide actionable insights.
+This project involved creating a comprehensive sales dashboard for a global superstore using Power BI to visualize sales data by country, segment, category, and subcategory. The dashboard enables stakeholders to analyze sales trends and performance metrics effectively. It supports data-driven decisions by integrating multiple data points into a single interactive platform.
 
 ---
 
 ## Business Problem
 
-Walmart stores faced fluctuating sales impacted by the aftermath of the 2008 recession, affecting revenue and operational planning. There was a need to analyze sales trends to identify patterns and factors influencing store performance. Understanding these dynamics was critical for strategic decision-making to improve sales outcomes.
+The COVID-19 pandemic accelerated the shift from in-store to online shopping, creating challenges in understanding evolving sales patterns across regions and product segments. Retailers needed a unified view of sales data to adapt strategies and optimize operations. Without actionable insights, businesses risked losing market share and failing to meet changing customer demands.
 
 ---
 
 ## Objective
 
-- Import and model Walmart sales data in Power BI for analysis
-- Create calculated columns and DAX measures to evaluate sales trends
-- Develop an interactive dashboard to visualize year-over-year sales performance
+- Create an interactive dashboard to visualize sales by country, segment, category, and subcategory
+- Enable identification of sales trends and key performance indicators (KPIs) for informed decision-making
+- Integrate multiple data sources into a cohesive data model for accurate analysis
 
 ---
 
 ## Tools & Technologies
 
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
+- Power BI
+- DAX
 - Excel
-- Power Query Editor
-- CSV data files
+- Data modeling
+- Data visualization
+- Power Query
 
 ---
 
 ## Project Workflow
 
-- Import Walmart sales CSV data into Power BI Desktop
-- Create calendar and refresh date tables using DAX
-- Establish relationships between sales and calendar tables
-- Add conditional columns for holiday and unemployment flags
-- Develop DAX measures for total sales, average sales, and year-over-year growth
+- Gather and prepare sales data from multiple sources
+- Build a data model integrating country, segment, category, and subcategory dimensions
+- Design and develop interactive visualizations and KPIs in Power BI
+- Implement slicers and filters for dynamic data exploration
+- Validate dashboard insights and optimize for user experience
 
 ---
 
 ## Key Insights
 
-- Sales trends showed variability influenced by economic recovery post-2008 recession
-- Holiday weeks and unemployment rates impacted weekly sales performance
-- Month-over-month sales comparisons revealed seasonal patterns
-- Data relationships enabled effective time-based sales analysis
+- Sales performance varies significantly by country, highlighting regional market differences
+- Certain product categories and subcategories outperform others during the pandemic-driven shift to online shopping
+- Customer segments show distinct purchasing behaviors impacting sales trends
+- Monthly sales KPIs reveal critical periods for targeted marketing and inventory management
 
 ---
 
@@ -58,9 +59,9 @@ Walmart stores faced fluctuating sales impacted by the aftermath of the 2008 rec
 
 ## Business Impact
 
-- Enabled Walmart to identify sales fluctuations related to economic factors
-- Provided actionable insights to optimize store operations during recovery periods
-- Supported data-driven decision-making for sales and marketing strategies
+- Empowered retail managers with real-time sales insights to optimize inventory and marketing
+- Improved strategic decision-making through clear visualization of sales trends and KPIs
+- Facilitated adaptation to changing consumer behaviors accelerated by the pandemic
 
 ---
 
