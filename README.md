@@ -106,6 +106,35 @@ Analyzed year-over-year sales trends and external factors for 45 Walmart stores 
 
 <br>
 
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/182/Walmart_es.gif" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+
+## Walmart Store Sales
+
+Analyzed year-over-year sales trends and external factors for 45 Walmart stores using Power BI to support data-driven retail strategy during post-recession recovery.
+
+ <code>Power BI Desktop</code> <code>DAX</code> <code>Power Query Editor</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-1/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ---
 
 ## Contact
