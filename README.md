@@ -1,17 +1,17 @@
-# Hi, I'm kal 👋
+# Hi, I'm kalkidan 👋
 
-## BI Analyst
+## Power BI Developer
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-025E8C?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/DAX-3776AB?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Data%20modeling-217346?style=for-the-badge&logoColor=white" alt="Data modeling"> <img src="https://img.shields.io/badge/Data%20visualization-FF7A00?style=for-the-badge&logoColor=white" alt="Data visualization">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Power%20Query-3776AB?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logoColor=white" alt="CSV">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex sales and customer data into clear, actionable insights using tools like Power BI and Excel. I specialize in creating dynamic dashboards and reports that support business intelligence and informed decision-making, particularly within retail environments. My work focuses on leveraging data visualization to reveal trends across regions, segments, and categories, enabling organizations to optimize performance and strategy.
+I am a data analyst skilled in transforming raw sales data into actionable insights using tools like Power BI and Excel. I specialize in creating dynamic dashboards and reports that support business intelligence and informed decision-making, particularly within the retail sector. My work focuses on analyzing trends and performance metrics to help organizations understand their sales dynamics and market conditions.
 
 ---
 
@@ -76,9 +76,8 @@ Developed a Power BI dashboard delivering actionable sales insights across count
 
 <br>
 
-
 ---
 
 ## Contact
 
-<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
