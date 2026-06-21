@@ -1,17 +1,17 @@
-# Hi, I'm kal 👋
+# Hi, I'm kalkidan 👋
 
-## Data Analyst
+## Power BI Developer
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-025E8C?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/DAX-3776AB?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logoColor=white" alt="Data Modeling"> <img src="https://img.shields.io/badge/Data%20Visualization-FF7A00?style=for-the-badge&logoColor=white" alt="Data Visualization"> <img src="https://img.shields.io/badge/Power%20Query-00A6A6?style=for-the-badge&logoColor=white" alt="Power Query">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Excel-025E8C?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/DAX-3776AB?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logoColor=white" alt="Data Modeling"> <img src="https://img.shields.io/badge/Data%20Visualization-FF7A00?style=for-the-badge&logoColor=white" alt="Data Visualization">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming complex retail sales data into clear, actionable insights using tools like Power BI and Excel. I specialize in building dynamic dashboards and reports that support business intelligence and informed decision-making by visualizing key metrics across multiple dimensions such as geography, product categories, and customer segments. My work focuses on leveraging data to help organizations understand trends and optimize performance in fast-evolving markets.
+I am a data analyst skilled in transforming complex retail sales data into clear, actionable insights using tools like Power BI and Excel. I specialize in building interactive dashboards and reports that support business intelligence and data-driven decision-making across multiple dimensions such as geography, product categories, and customer segments. My focus is on leveraging data visualization to help organizations understand trends and optimize performance in dynamic market environments.
 
 ---
 
@@ -84,3 +84,9 @@ Developed an interactive Power BI dashboard delivering actionable sales insights
 ## Contact
 
 <a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+---
+
+## Contact
+
+<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
