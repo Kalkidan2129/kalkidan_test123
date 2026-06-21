@@ -1,17 +1,17 @@
-# Hi, I'm kal 👋
+# Hi, I'm kalkidan 👋
 
-## BI Analyst
+## Power BI Developer
 
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-025E8C?style=for-the-badge&logoColor=white" alt="DAX"> <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white" alt="Power Query"> <img src="https://img.shields.io/badge/CSV-FF7A00?style=for-the-badge&logoColor=white" alt="CSV">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/SQL%20Server-025E8C?style=for-the-badge&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/Microsoft%20Office-3776AB?style=for-the-badge&logoColor=white" alt="Microsoft Office"> <img src="https://img.shields.io/badge/SQL%20scripting-217346?style=for-the-badge&logoColor=white" alt="SQL scripting"> <img src="https://img.shields.io/badge/Data%20modeling-FF7A00?style=for-the-badge&logoColor=white" alt="Data modeling">
 
 ---
 
 ## About
 
-I am a data analyst skilled in transforming raw sales data into actionable business insights using tools like Power BI and Excel. My work focuses on creating dynamic dashboards and reports that support data-driven decision-making, particularly within the retail sector. I am proficient in leveraging business intelligence techniques to analyze trends and performance metrics, enabling clearer understanding of complex datasets.
+I am a data analyst skilled in transforming complex datasets into clear, actionable insights using tools like Power BI and SQL Server. My work focuses on developing interactive dashboards and reports that support informed decision-making, particularly within operational and safety-critical contexts. I am proficient in leveraging data analytics and business intelligence techniques to enhance understanding and drive improvements in dynamic environments.
 
 ---
 
@@ -78,8 +78,40 @@ Developed a Power BI dashboard delivering actionable sales insights across count
 
 <br>
 
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://app.colaberry.com/uploads/ProjectRequest/32503/Final_Pic.JPG" width="100%" height="220">
+
+</td>
+
+<td width="55%" valign="top">
+
+<h2>Air Traffic Control Awareness and Wildlife Strikes</h2>
+
+Developed a Power BI dashboard analyzing pilot awareness impact on wildlife strike damages and passenger safety in aviation.
+
+<br>
+
+<code>Power BI</code> <code>SQL Server</code> <code>Microsoft Office</code>
+
+<br>
+
+<p align="right">
+  <a href="./project-3/README.md"><b>View Full Project →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
 ---
 
 ## Contact
 
-<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Kalkidan2129"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:kalkidankin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
